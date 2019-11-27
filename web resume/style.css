@@ -1,0 +1,278 @@
+body{
+    
+    background-image: url("https://wallpapercave.com/wp/GjrkLhP.jpg");
+    color:#555;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:16px;
+    line-height:1.6em;
+    margin:0;
+}
+
+
+
+.container{
+   width:80%;
+   margin:auto;
+   overflow:hidden; 
+}
+
+#main-header{
+    background-image:"https://wallpapercave.com/wp/GjrkLhP.jpg";
+    color:silver;
+    font-style:italic;
+    text-align:left;
+    
+    
+}
+
+
+
+/*#main-header h1{
+  font-weight:bold;
+  font-style:Verdana;
+  
+}*/
+
+#navbar{
+    background-image:url("https://wallpapercave.com/wp/GjrkLhP.jpg");
+}
+
+#navbar ul{
+   padding:0;
+   list-style: none; 
+}
+
+#navbar li{
+    display:inline;
+}
+
+#navbar a{
+    color:silver;
+    text-decoration: underline overline;
+    text-align:center;
+    font-size:18px;
+    font-style: Verdana;
+    font-weight:bold;
+    padding-right:15px;
+}
+
+#showcase{
+    background-image:url('https://www.freelogoservices.com/blog/wp-content/uploads/laptop-header-picture-id910806154.jpg');
+    background-position:center right;
+    height:300px;
+    margin-bottom:30px;
+    text-align: center;
+}
+
+#showcase h1{
+  color: white;
+  font-size: 30px; 
+  line-height: 1.6em;
+  padding-top:30px;
+}
+
+.containerbox{
+   width:80%; 
+   margin:auto; 
+      
+}
+
+.containerbox p{
+  font-weight:bold;
+}
+
+.box-0{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  
+}
+
+.box-0 img{
+   border: 5px black solid;
+   /*border-width:3px;*/
+   /*border-bottom-width:10px;*/
+   /*border-top-style:solid;*/
+   
+
+   /*padding: 20px;*/
+
+   margin:20px 0;
+}
+
+.box-1{
+   background-color: darkgrey; 
+   color:black;
+   border: 5px black solid;
+   border-width:3px;
+   border-bottom-width:10px;
+   border-top-width:10px;
+   border-top-style:solid;
+   border-radius:25px;
+
+   padding: 20px;
+
+   margin:20px 0;
+}
+
+.box-1 h1{
+    font-family:Tahoma;
+    font-weight:800;
+    font-style:italic;
+    text-decoration:underline overline dotted black;
+    text-transform:uppercase;
+    letter-spacing: 0.2em;
+    /*word-spacing: 1em;*/
+    text-align:center;
+}
+
+.box-1 hr{
+    color:black;
+}
+.box-1 h3{
+    text-align: center;
+}
+
+.box-1 ul{
+    list-style-type: none;
+}
+.box-1 li{
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+.box-1 a{
+    color: black
+}
+
+    
+
+.box-2{
+   background-color: darkgrey; 
+   color:black;
+   border: 5px black solid;
+   border-width:3px;
+   border-top-width:10px;
+   border-bottom-width:10px;
+   border-top-style:solid;
+   border-radius:25px;
+
+   padding: 20px;
+
+   margin:20px 0;
+}
+
+.box-2 h2{
+    font-family:Tahoma;
+    font-weight:800;
+    font-style:italic;
+    text-decoration:underline overline dotted black;
+    text-transform:uppercase;
+    letter-spacing: 0.2em;
+    /*word-spacing: 1em;*/
+    text-align:center;
+}
+
+
+
+.box-2 a{
+   /* text-decoration:none;*/
+    color: black;
+    font-style:italic;
+    
+    
+}
+
+.box-3{
+   background-color: darkgrey; 
+   color:black;
+   border: 5px black solid;
+   border-width:3px;
+   border-top-width:10px;
+   border-bottom-width:10px;
+   border-top-style:solid;
+   border-radius:25px;
+
+   padding: 20px;
+
+   margin:20px 0;
+}
+
+.box-3 h2{
+    font-family:Tahoma;
+    font-weight:800;
+    font-style:italic;
+    text-decoration:underline overline dotted black;
+    text-transform:uppercase;
+    letter-spacing: 0.2em;
+    /*word-spacing: 1em;*/
+    text-align:center;
+}
+
+.box-4{
+   background-color: darkgrey; 
+   color:black;
+   border: 5px black solid;
+   border-width:3px;
+   border-top-width:10px;
+   border-bottom-width:10px;
+   border-top-style:solid;
+   border-radius:25px;
+
+   padding: 20px;
+
+   margin:20px 0;
+
+   text-align: center;
+}
+
+.box-4 h3{
+    font-family:Tahoma;
+    font-weight:800;
+    font-style:italic;
+    text-decoration:underline overline dotted black;
+    text-transform:uppercase;
+    letter-spacing: 0.2em;
+    /*word-spacing: 1em;*/
+    text-align:center;
+}
+
+.box-4 li{
+    list-style:none;
+    
+}
+
+.box-4 a{
+    color:black
+}
+
+
+
+
+
+#main-footer{
+    background: black;
+    color:white;
+    text-align: center;
+    padding:10px;
+    margin-top:30px;
+}
+
+#main-footer li{
+    list-style: none;
+    letter-spacing: 0.2em;
+}
+
+#main-footer img{
+    padding-top: 10px;
+    
+}
+button a{
+  color:black;
+  text-decoration:none;
+}
+
+
+
